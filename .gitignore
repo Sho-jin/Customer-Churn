@@ -7,3 +7,5 @@ logs/
 *.keras
 
 .DS_Store
+
+regression_logs/
